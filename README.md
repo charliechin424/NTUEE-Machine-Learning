@@ -21,3 +21,27 @@ Diffusion Model
 
 ## HW7  
 BERT - Question Answering
+
+## HW8  
+Auto-encoder - Anomaly Detection
+
+## HW9  
+Explainable AI
+
+## HW10  
+Adversarial Attack
+
+## HW11  
+Domain Adaptation
+
+## HW12  
+Deep Reinforcement Learning 
+
+## HW13  
+Network Compression
+
+## HW14  
+Life-long Learning
+
+## HW15  
+Meta Learning - Few-shot Classification
